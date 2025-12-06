@@ -1,7 +1,7 @@
 # 👋 Welcome to my profile!
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
+## About me
 > [!NOTE]
 > I'm a second year Computer Science student at the University of Surrey. I'm looking for placements, projects and just about anything where I can make an impact! So far, I've built and deployed Discord bots, created my own website, dabbled in some Roblox game development and Blender graphics rendering.
 
