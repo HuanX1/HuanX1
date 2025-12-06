@@ -1,9 +1,10 @@
-# 👋 Welcome to my profile!
-
-
-## About me
+## 👋 About me
 > [!NOTE]
-> I'm a second year Computer Science student at the University of Surrey. I'm looking for placements, projects and just about anything where I can make an impact! So far, I've built and deployed Discord bots, created my own website, dabbled in some Roblox game development and Blender graphics rendering.
+> I'm a second year Computer Science student at the University of Surrey. I'm looking for placements, projects and just about anything where I can make an impact! Some stuff I have done so far:
+> - I've built and deployed Discord bots
+> - I've created my own website
+> - I've dabbled in some Roblox game development and Blender graphics rendering.
+> - I created my own game in VB.NET
 
 ## 🔭 I’m currently working on ⤵️
 ```Improving my Discord bot and incorporating AI for help in searching job applications, lecture note-taking and anything inbetween.```
