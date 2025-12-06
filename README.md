@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Welcome to my profile!
+
+> I'm a second year Computer Science student at the University of Surrey
+> I'm looking for placements, projects and just about anything where I can make an impact!
+
+
+
+
+
 
 <!--
 **HuanX1/HuanX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
