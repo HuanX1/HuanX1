@@ -1,5 +1,6 @@
 ## 👋 Welcome to my profile!
 
+> [!IMPORTANT]
 > I'm a second year Computer Science student at the University of Surrey
 > I'm looking for placements, projects and just about anything where I can make an impact!
 
