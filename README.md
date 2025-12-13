@@ -8,6 +8,7 @@
 
 ## 🔭 I’m currently working on ⤵️
 ```Improving my Discord bot and incorporating AI for help in searching job applications, lecture note-taking and anything inbetween.```
+```Building my first electron app to serve as a flashcards holder and with AI features that will process documents and powerpoints into usable flashcards.```
 
 ## 🌱 I want to learn ⤵️
 ```
