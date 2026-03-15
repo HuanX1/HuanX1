@@ -7,13 +7,14 @@
 > - I created my own game in VB.NET
 
 ## 🔭 I’m currently working on ⤵️
-```Improving my Discord bot and incorporating AI for help in searching job applications, lecture note-taking and anything inbetween.```
-```Building my first electron app to serve as a flashcards holder and with AI features that will process documents and powerpoints into usable flashcards.```
+```Improving my Python and C++ Skills, along with data structures and optimisation```
+```Building my portfolio```
 
 ## 🌱 I want to learn ⤵️
 ```
-Haskell or Rust 
-Building my own financial planner with customization and insights
+Rust
+Building a Telegram bot
+Leveraging n8n better
 ```
 
 ## Tech Stack
