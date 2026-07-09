@@ -1,6 +1,8 @@
 ## 👋 About me
 > [!NOTE]
-> I'm a second year Computer Science student at the University of Surrey. I'm looking for placements, projects and just about anything where I can make an impact! Some stuff I have done so far:
+> I'm a second year Computer Science student at the University of Surrey. I'm now a risk analyst intern at Tupras Trading, working in the Oil and Gas sector. I have experience working with Excel, Python and VBA Macros. Some stuff I have done so far:
+> - I've helped review and improve macros on excel sheets to improve processes
+> - I have learnt about various financial instruments and derivatives as well as the oil sector and the lifecycle of an oil trade
 > - I've built and deployed Discord bots
 > - I've created <a href="www.huanworld.com">my own website</a> (Revamped soon)
 > - I've dabbled in some Roblox game development and Blender graphics rendering.
